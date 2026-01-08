@@ -2,14 +2,18 @@
 
 DESKRIPSI PROYEK / PROJECT DESCRIPTION
 ------------------------------------------------------------
-(ID) Proyek ini adalah sebuah sistem berbasis Python yang 
+(ID) 
+
+Proyek ini adalah sebuah sistem berbasis Python yang 
 dirancang untuk mengklasifikasikan citra tomat ke dalam 
 beberapa kategori tertentu (seperti tingkat kematangan atau 
 jenis) menggunakan pendekatan Deep Learning. Proyek ini 
 memanfaatkan Jupyter Notebook untuk proses eksperimen, 
 pelatihan model, dan evaluasi hasil.
 
-(EN) This project is a Python-based system designed to 
+(EN) 
+
+This project is a Python-based system designed to 
 classify tomato images into specific categories (such as 
 ripeness levels or types) using a Deep Learning approach. 
 The project utilizes Jupyter Notebook for experimentation, 
@@ -56,5 +60,3 @@ ALUR KERJA TEKNIS
    notebook.
 4. Jalankan seluruh sel (cells) secara berurutan untuk 
    melihat proses pelatihan dan hasil klasifikasi.
-
-============================================================
